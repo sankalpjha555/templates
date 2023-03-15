@@ -1,6 +1,6 @@
 {
   "package_name" : "Alfresco",
-  "github_url" : "https://github.com/Alfresco/acs-packaging",
+  "github_url" : "https://github.com/Alfresco/acs-community-packaging",
   "org" : "Alfresco",
   "repo" : "acs-packaging",
   "published_version" : "7.2.0",
