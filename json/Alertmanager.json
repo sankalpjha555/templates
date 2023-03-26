@@ -3,7 +3,7 @@
   "github_url" : "https://github.com/prometheus/alertmanager",
   "org" : "prometheus",
   "repo" : "alertmanager",
-  "published_version" : "0.25.1",
+  "published_version" : "0.25.2",
   "published_date" : "2023-01-13",
   "distros" : "rh7.9, rh7.9, rh8.4, rh9.1"
 }
