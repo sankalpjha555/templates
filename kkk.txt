@@ -1,0 +1,20 @@
+   wget https://github.com/adoptium/temurin11-binaries/releases/download/jdk-11.0.17%2B8/OpenJDK11U-jdk_s390x_linux_hotspot_11.0.17_8.tar.gz
+    7  tar -xvzf OpenJDK11U-jdk_s390x_linux_hotspot_11.0.17_8.tar.gz
+    8  sudo mv jdk-11.0.17+8 /opt/
+    9  JAVA_HOME='/opt/jdk-11.0.15+10'
+   10  export JAVA_HOME
+   11  PATH="$JAVA_HOME/bin:$PATH"
+   12  JAVA_HOME='/opt/jdk-11.0.17+8'
+   13  export JAVA_HOME
+   14  PATH="$JAVA_HOME/bin:$PATH"
+   15  export PATH
+bash build_erlang.sh -t -j Eclipse_Adoptium_Temurin_11
+
+
+
+
+..................
+
+
+
+
